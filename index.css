@@ -1,0 +1,23 @@
+.gray-box {
+    background-color: rgb(218, 213, 213);
+    border: 1px solid rgb(100, 99, 99);
+    padding: 15px 0 15px 45px;
+    margin: 30px 240px 20px 240px;
+}
+.text-format {
+    font-family: 'Nanum Gothic', sans-serif;
+    text-align: center
+
+}
+.white-box {
+    background-color: white;
+    border: 1px solid rgb(100, 99, 99);
+    padding: 10px 0 10px 10px;
+    margin: 0px 440px 10px 0;
+    font-family: 'Nanum Gothic', sans-serif;
+
+
+}
+.font-family {
+    font-family: 'Nanum Gothic', sans-serif;
+}
